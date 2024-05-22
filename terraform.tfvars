@@ -1,0 +1,7 @@
+default_location                = "francecentral"
+root_id                         = "es"
+root_name                       = "Enterprise-Scale"
+root_parent_management_group_id = "caf_demo"
+subscription_id_connectivity    = "6094e15e-3e04-47b5-9b3b-aa8ae3cf1e52"
+subscription_id_identity        = "6094e15e-3e04-47b5-9b3b-aa8ae3cf1e52"
+subscription_id_management      = "6094e15e-3e04-47b5-9b3b-aa8ae3cf1e52"
